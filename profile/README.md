@@ -39,7 +39,7 @@ Click on any category below to expand and view the related repositories:
 <details>
 <summary><b>📈 Time-Series, Energy & Spatiotemporal Prediction</b> (Click to expand)</summary>
 
-* [JHS Solar Prediction](https://github.com/CNU-DNS-Lab/JHS-AI-project) - Solar power prediction with hybrid models (LSTM + NLinear + DLinear).
+* [JHS Solar Prediction](https://github.com/CNU-DNS-Lab/JHS-Solar) - Solar power prediction with hybrid models (LSTM + NLinear + DLinear).
 * [SolarPred](https://github.com/CNU-DNS-Lab/SolarPred) - Solar Power Generation Prediction with LSTM and web interface.
 * [SunnyFactory-EnergyPrediction_AnomalyDetection](https://github.com/CNU-DNS-Lab/SunnyFactory-EnergyPrediction_AnomalyDetection) - Energy prediction with SimVP + CBAM and anomaly detection with autoencoders.
 * [Bappi Solar Prediction](https://github.com/CNU-DNS-Lab/AI_project) -  - Solar Power Generation Prediction
