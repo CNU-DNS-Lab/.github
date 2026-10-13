@@ -43,7 +43,7 @@ Click on any category below to expand and view the related repositories:
 * [SolarPred](https://github.com/CNU-DNS-Lab/SolarPred) - Solar Power Generation Prediction with LSTM and web interface.
 * [SunnyFactory-EnergyPrediction_AnomalyDetection](https://github.com/CNU-DNS-Lab/SunnyFactory-EnergyPrediction_AnomalyDetection) - Energy prediction with SimVP + CBAM and anomaly detection with autoencoders.
 * [Bappi Solar Prediction](https://github.com/CNU-DNS-Lab/AI_project) -  - Solar Power Generation Prediction
-* [TSMP](https://github.com/CNU-DNS-Lab/TSMP-ACK-2024) - TSPM: Two-stage Spatiotemporal Prediction Module for building energy prediction.
+* [TSPM](https://github.com/CNU-DNS-Lab/TSPM-ACK-2024) - TSPM: Two-stage Spatiotemporal Prediction Module for building energy prediction.
 * [SwinVP](https://github.com/CNU-DNS-Lab/SwinVP) - Traffic accident risk forecasting based on video prediction models.
 * [DATC-STP](https://github.com/CNU-DNS-Lab/DATC-STP) - Spatiotemporal prediction with Transformer-style CNN.
 * [TCN-USAD](https://github.com/CNU-DNS-Lab/TCN-USAD) - TCN-USAD for timeseries anomaly detection.
