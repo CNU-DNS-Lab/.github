@@ -82,6 +82,7 @@ Click on any category below to expand and view the related repositories:
 ## 👥 Connect with Us
 * **Lab Website / Info:** [Chonnam National University DNS Lab](https://cnu-dns-lab.github.io/)
 * **Advising Professor Website / Info:** [Kyungbaek Kim](https://kyungbaekkim.jnu.ac.kr/)
+* **GitHub Discussions:** [Discussions Board](https://github.com/orgs/CNU-DNS-Lab/discussions) 
 * **Contact:** Reach out to lab members/professor or open an issue in any repository for inquiries.
 
 ![Banner.](/cnu_banner.png)
