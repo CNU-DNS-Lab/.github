@@ -58,7 +58,7 @@ Click on any category below to expand and view the related repositories:
 * [STMFNet-DR-Classification](https://github.com/CNU-DNS-Lab/STMFNet-DR-Classification) - Hierarchical deep learning framework for diabetic retinopathy classification.
 * [AI4Pain_Assessment](https://github.com/CNU-DNS-Lab/AI4Pain_Assessment) - Automated pain assessment using deep learning.
 * [Smoking-Prediction](https://github.com/CNU-DNS-Lab/Smoking-Prediction) - Enhancing deep learning models for predicting smoking status using clinical data.
-* [Multispeaker speech emotion recognition](https://github.com/CNU-DNS-Lab/AI_project_2023-Multispeaker-speech-emotion-recognition-) - Multispeaker speech emotion recognition.
+* [Multispeaker speech emotion recognition](https://github.com/CNU-DNS-Lab/Multispeaker-speech-emotion-recognition) - Multispeaker speech emotion recognition.
 <!-- * [Parkinson](https://github.com/CNU-DNS-Lab/Parkinson) & [PD_Diagnosis](https://github.com/CNU-DNS-Lab/PD_Diagnosis) - Parkinson's disease detection frameworks. -->
 
 </details>
