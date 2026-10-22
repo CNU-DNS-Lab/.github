@@ -30,7 +30,7 @@ Click on any category below to expand and view the related repositories:
 * [MAE fViT](https://github.com/CNU-DNS-Lab/MAE-fViT-PLD-Classification) - Self-supervised Vision Transformer for potato leaf disease classification.
 * [Fit ShuffleNetV2](https://github.com/CNU-DNS-Lab/fit-shufflenetv2-lightweight-student-model) - Lightweight student model via knowledge distillation for plant diseases.
 * [Plant-SSL-MTL](https://github.com/CNU-DNS-Lab/Plant-SSL-MTL) - Self-supervised learning and multi-task learning for plant disease classification.
-* [YOLO Fruit Bag Counting](https://github.com/CNU-DNS-Lab/AI-Model-Development-for-Counting-Fruit-Bags-Pear-Bags-) - Vision AI model for detecting, tracking, and counting fruit bags.
+* [YOLO Fruit Bag Counting](https://github.com/CNU-DNS-Lab/YOLO-Counting-Pear-Fruit-Bags) - Vision AI model for detecting, tracking, and counting fruit bags.
 <!-- * [gft](https://github.com/CNU-DNS-Lab/gft) - General framework / knowledge distillation for smart/digital agriculture. -->
 <!-- * [rld](https://github.com/CNU-DNS-Lab/rld) - Knowledge distillation for plant leaf disease classification. -->
 
